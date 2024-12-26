@@ -1,0 +1,12 @@
+C:\Users\اح\Desktop\Hulye\ClothingStoreApp\ClothingStoreLibrary\bin\Debug\ClothingStoreLibrary.dll
+C:\Users\اح\Desktop\Hulye\ClothingStoreApp\ClothingStoreLibrary\bin\Debug\ClothingStoreLibrary.pdb
+C:\Users\اح\Desktop\Hulye\ClothingStoreApp\ClothingStoreLibrary\obj\Debug\ClothingStoreLibrary.csproj.AssemblyReference.cache
+C:\Users\اح\Desktop\Hulye\ClothingStoreApp\ClothingStoreLibrary\obj\Debug\ClothingStoreLibrary.csproj.CoreCompileInputs.cache
+C:\Users\اح\Desktop\Hulye\ClothingStoreApp\ClothingStoreLibrary\obj\Debug\ClothingStoreLibrary.dll
+C:\Users\اح\Desktop\Hulye\ClothingStoreApp\ClothingStoreLibrary\obj\Debug\ClothingStoreLibrary.pdb
+C:\Users\hülya\Desktop\Hulye\ClothingStoreApp\ClothingStoreLibrary\bin\Debug\ClothingStoreLibrary.dll
+C:\Users\hülya\Desktop\Hulye\ClothingStoreApp\ClothingStoreLibrary\bin\Debug\ClothingStoreLibrary.pdb
+C:\Users\hülya\Desktop\Hulye\ClothingStoreApp\ClothingStoreLibrary\obj\Debug\ClothingStoreLibrary.csproj.AssemblyReference.cache
+C:\Users\hülya\Desktop\Hulye\ClothingStoreApp\ClothingStoreLibrary\obj\Debug\ClothingStoreLibrary.csproj.CoreCompileInputs.cache
+C:\Users\hülya\Desktop\Hulye\ClothingStoreApp\ClothingStoreLibrary\obj\Debug\ClothingStoreLibrary.dll
+C:\Users\hülya\Desktop\Hulye\ClothingStoreApp\ClothingStoreLibrary\obj\Debug\ClothingStoreLibrary.pdb
